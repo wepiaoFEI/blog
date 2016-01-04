@@ -1,9 +1,35 @@
-# HuxBlog Boilerplate
+# Blog of wepiaoFEI
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+### 微票前端基础工程部博客
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+> Frontend Infrastrcuture Team @wepiao
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+### Get Started
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+normal serve:
+
+```bash
+$ jekyll serve
+```
+
+serve and watch:
+
+```bash
+$ npm run watch
+```
+
+### Document
+
+This blog is fork from [Hux Blog](https://github.com/Huxpro/huxpro.github.io), click to check out all documents.
+
+
+### TODO
+
+- Update About-Page
+- Theming
+- Post, post, post...
+
+
+### Team
+
+> Todo...
