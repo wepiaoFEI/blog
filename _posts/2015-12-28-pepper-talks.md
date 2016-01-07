@@ -10,8 +10,11 @@ tags:
     - Webpack
 ---
 
+```
+npm install we-pepper -g
+```
 
-> 下滑这里查看更多内容
+[Pepper Doc](http://npmjs.com/package/we-pepper)
 
 
 ### [Watch Slides →](http://dhong.co/pepper-talks/)
