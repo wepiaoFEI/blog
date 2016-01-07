@@ -14,7 +14,7 @@ tags:
 npm install we-pepper -g
 ```
 
-[Pepper Doc](http://npmjs.com/package/we-pepper)
+### [Pepper Doc →](http://npmjs.com/package/we-pepper)
 
 
 ### [Watch Slides →](http://dhong.co/pepper-talks/)
