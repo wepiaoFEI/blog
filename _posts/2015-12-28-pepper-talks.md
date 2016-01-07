@@ -16,7 +16,7 @@ tags:
 
 ### [Watch Slides →](http://dhong.co/pepper-talks/)
 
-<img src="http://huangxuan.me/css-sucks-2015/attach/pepper.png" width="350" height="350"/>
+<img src="http://dhong.co/pepper-talks/attach/qrcode.png" width="350" height="350"/>
 
 <small class="img-hint">你也可以通过扫描二维码在手机上观看</small>
 
