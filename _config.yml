@@ -5,7 +5,7 @@ header-img: img/shield.jpg
 email: huangxuan@wepiao.com
 description: ""
 keyword: ""
-url: "http://wepiaoFEI.github.io"              # your host, for absolute URL
+url: "https://wepiaofei.github.io"             # your host, for absolute URL
 baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
